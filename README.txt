@@ -1,2 +1,2 @@
-sadece save some data in API
+sadece save some data with API
 then read and choose to stay or soft delete
